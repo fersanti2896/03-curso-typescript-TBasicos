@@ -1,7 +1,8 @@
 (() => {
-    const hero: [string, number, boolean] = ['Capitan Ginyu', 80000, false];
-    hero[0] = 'IronMan';
-    hero[1] = 1200;
+    const dbz: [string, number, boolean] = ['Capitan Ginyu', 80000, false];
+    dbz[0] = 'Goku';
+    dbz[1] = 180000;
+    dbz[2] = true;
 
-    console.log(hero);
+    console.log(dbz);
 })();
